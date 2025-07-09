@@ -1,0 +1,39 @@
+.obrigatorio {
+    font-weight: bold !important;
+    color: red !important;
+}
+
+.form-control {
+    border-radius: 5px !important;
+    background-color: white !important;
+}
+
+.form-control:focus {
+    background-color: rgb(240, 240, 240) !important;
+    color: black !important;
+}
+
+.button-color {
+    background-color: blue !important;
+    border-style: bold !important;
+}
+
+.button-color:hover {
+    background-color: rgb(50, 50, 255) !important;
+    color: white !important;
+}
+
+.buttons {
+    font-size: 15px !important;
+    border-radius: 5px !important;
+}
+
+.success {
+    font-weight: bold !important;
+    color: green !important;
+}
+
+.error {
+    font-weight: bold !important;
+    color: red !important;
+}
